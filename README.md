@@ -32,11 +32,10 @@ generate_badge() # This generates a badge for your readme.
 7. Commit and push code to GitHub **public** repository
 
 8. Build binder by either:
-  - Click badge in README.md (either on GitHub or RStudio README.md Preview)
   - Script in RStudio: `build_binder()`
-  
-# Badge
+  - Click badge in README.md (either on GitHub or RStudio README.md Preview)
 
 <!-- badges: start -->
 [![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maia-sh/arrr-binder/master?urlpath=rstudio)
 <!-- badges: end -->
+
