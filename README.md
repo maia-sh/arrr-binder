@@ -24,7 +24,7 @@ write_dockerfile(maintainer = "your_name")
 
 5. Generate badge text and automatically copy to clipboard
 ```{r}
-generate_badge() # This generates a badge for your readme.
+generate_badge()
 ```
 
 6. Paste badge text into README.md
