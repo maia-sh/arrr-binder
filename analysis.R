@@ -1,0 +1,1 @@
+my_lucky_numbers <- sample(1:10, 5, replace =  TRUE)

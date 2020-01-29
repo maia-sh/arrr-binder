@@ -1,0 +1,13 @@
+Type: Compendium
+Package: My Lucky Numbers
+Title: Generate Lucky Numbers
+Version: 0.0.1
+Authors@R: 
+    person(given = "Maia",
+           family = "S-H",
+           role = c("aut", "cre"),
+           email = "mash2015@gmail.com")
+Description: Select lucky numbers
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
