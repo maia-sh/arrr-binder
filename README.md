@@ -33,10 +33,7 @@ generate_badge() # This generates a badge for your readme.
 
 8. Build binder by either:
   - Click badge in README.md (either on GitHub or RStudio README.md Preview)
-  - Script in RStudio
-  ```{r}
-  build_binder()
-  ```
+  - Script in RStudio: `build_binder()`
   
 # Badge
 
